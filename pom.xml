@@ -12,8 +12,8 @@
 
     <scm>
         <url>https://github.com/ayedhedi/mavendemo</url>
-        <connection>scm:git:git://github.com/ayedhedi/mavendemo.git</connection>
-        <developerConnection>scm:git:git@github.com/ayedhedi/mavendemo.git</developerConnection>
+        <connection>scm:git:git://github.com:ayedhedi/mavendemo.git</connection>
+        <developerConnection>scm:git:git@github.com:ayedhedi/mavendemo.git</developerConnection>
       <tag>powermock-demo-0.0.1</tag>
   </scm>
 
