@@ -11,6 +11,12 @@
     <name>powermock-demo</name>
     <description>Demo project for Spring Boot</description>
 
+    <scm>
+        <url>https://github.com/ayedhedi/mavendemo</url>
+        <connection>scm:git:git://github.com/ayedhedi/mavendemo.git</connection>
+        <developerConnection>scm:git:git@github.com/ayedhedi/mavendemo.git</developerConnection>
+    </scm>
+
     <distributionManagement>
         <repository>
             <id>nexusReleases</id>
